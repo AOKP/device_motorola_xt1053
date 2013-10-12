@@ -29,5 +29,3 @@
 
 LOCAL_PATH := device/motorola/xt1053
 
-#bluetooth
-BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(LOCAL_PATH)/bluetooth
